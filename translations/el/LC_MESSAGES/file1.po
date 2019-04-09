@@ -44,3 +44,7 @@ msgstr "Address4ggggg"
 #: foo/templates/bar.html:185
 msgid "Address5"
 msgstr ""
+
+#: foo/templates/bar.html:186
+msgid "Address6"
+msgstr ""
