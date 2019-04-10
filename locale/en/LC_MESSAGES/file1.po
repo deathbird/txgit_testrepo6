@@ -49,3 +49,7 @@ msgstr ""
 #: foo/templates/bar.html:187
 msgid "Address7"
 msgstr ""
+
+#: foo/templates/bar.html:188
+msgid "Address8"
+msgstr ""
