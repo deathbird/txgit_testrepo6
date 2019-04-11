@@ -1,16 +1,16 @@
 # FIRST AUTHOR <email@address>, YEAR.
 # 
 # Translators:
-# Giannos Dimas <giannosdim@transifex.com>, 2019
+# Giannos Dimas <jack_dimas@yahoo.com>, 2019
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: Transifex\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-29 12:41+0000\n"
-"PO-Revision-Date: 2019-04-09 11:00+0000\n"
-"Last-Translator: Giannos Dimas <giannosdim@transifex.com>, 2019\n"
-"Language-Team: Greek (https://example.com/journehyman-ltd/teams/1/el/)\n"
+"PO-Revision-Date: 2019-04-11 10:13+0000\n"
+"Last-Translator: Giannos Dimas <jack_dimas@yahoo.com>, 2019\n"
+"Language-Team: Greek (https://www.transifex.com/journeyman-ltd/teams/98048/el/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -43,12 +43,16 @@ msgstr "Address4ggggg"
 
 #: foo/templates/bar.html:185
 msgid "Address5"
-msgstr ""
+msgstr "Address5gggg"
 
 #: foo/templates/bar.html:186
 msgid "Address6"
-msgstr ""
+msgstr "Address6gggg"
 
 #: foo/templates/bar.html:187
 msgid "Address7"
-msgstr ""
+msgstr "Address7ggggggrrrrrr"
+
+#: foo/templates/bar.html:188
+msgid "Address8"
+msgstr "Address8ggggg"
